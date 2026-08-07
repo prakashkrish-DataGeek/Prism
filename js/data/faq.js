@@ -1,0 +1,24 @@
+/* Quick Answers — 20 common Gen-Z finance questions, static answers.
+   (Phase-1 replacement for the "Artha" AI coach.) Education only. */
+export const FAQ = [
+  { q: 'How much should I invest every month?', a: 'A common starting frame is 50/30/20 — aim to invest at least 20% of your take-home. But the best amount is the one you can sustain automatically. Even ₹500/month started now beats ₹5,000/month started "later".' },
+  { q: 'SIP or lumpsum — which is better?', a: 'If you have a large sum and a long horizon, lumpsum can win mathematically. But for most salaried people, SIPs match how income arrives and remove the stress of timing the market. In volatile markets, SIPs also average your cost.' },
+  { q: 'What is the safest place to keep my emergency fund?', a: 'A liquid debt fund or a sweep-in FD — you want 3–6 months of expenses that you can access within a day or two, without touching long-term investments.' },
+  { q: 'Direct or regular plan — does it really matter?', a: 'Yes, a lot. Direct plans skip the distributor commission, so their expense ratio is ~1% lower. Over decades that gap can cost 20%+ of your corpus. Always look for "Direct" in the plan name.' },
+  { q: 'Is it too late to start if I’m already 30?', a: 'No. 30 still gives you 25–30 years of compounding before retirement. The best day was earlier; the second-best is today. Start now and increase gradually.' },
+  { q: 'Should I pay off debt or invest first?', a: 'Clear high-interest debt (credit cards, personal loans at 15%+) first — no investment reliably beats that guaranteed "return". For low-interest debt like a home loan, you can often do both.' },
+  { q: 'How much emergency fund do I actually need?', a: 'Typically 3–6 months of essential expenses. If your income is irregular or you’re the sole earner, lean towards 6+ months.' },
+  { q: 'What return should I expect from equity?', a: 'Long-term Indian equity has historically delivered roughly 11–12% annualised — but with large ups and downs, and no guarantee. Plan with conservative assumptions and treat anything extra as a bonus.' },
+  { q: 'Are index funds really better than active funds?', a: 'For most people, yes. Over 10-year periods, a majority of active large-cap funds in India have trailed the Nifty 50 after fees. Low cost is a durable edge.' },
+  { q: 'What is an expense ratio and why care?', a: 'It’s the annual fee a fund charges, deducted invisibly from the NAV. A 1.5% fee vs 0.2% may sound small, but it compounds against you every year for decades.' },
+  { q: 'How do I save tax as a young earner?', a: 'Use Section 80C (up to ₹1.5L — ELSS, PPF, EPF) and the extra ₹50k NPS deduction under 80CCD(1B). Compare the old vs new tax regime for your situation.' },
+  { q: 'Is crypto a good investment?', a: 'It’s highly speculative and heavily taxed in India (30% on gains + 1% TDS, no loss set-off). If you engage at all, only use money you can fully afford to lose. It is not a core wealth-building tool.' },
+  { q: 'Should I try F&O / options trading?', a: 'SEBI’s own study found the vast majority of individual F&O traders lose money. It’s leveraged speculation, not investing. Beginners should stay away.' },
+  { q: 'What’s the difference between saving and investing?', a: 'Saving parks money safely for short-term needs (savings account, FD, liquid fund). Investing puts money to work for long-term growth (equity, index funds) and accepts short-term ups and downs.' },
+  { q: 'How does inflation affect my money?', a: 'At ~6% inflation, prices roughly double every 12 years. Money in low-yield accounts loses purchasing power. Real return = nominal return − inflation.' },
+  { q: 'When should I sell my investments?', a: 'Ideally when you reach the goal you invested for — not because of a market scare. Selling in a panic locks in losses. A written plan beats an anxious moment.' },
+  { q: 'What is rupee-cost averaging?', a: 'When you invest a fixed amount regularly (a SIP), you automatically buy more units when prices are low and fewer when high — smoothing your average cost over time.' },
+  { q: 'How do I build a simple starter portfolio?', a: 'Education-only example structure: an emergency fund (liquid), a broad index fund for long-term growth, and tax-savers (ELSS/NPS/EPF). Match each rupee to a time horizon. This isn’t advice — tailor it or consult an advisor.' },
+  { q: 'What is an emergency fund vs sinking fund?', a: 'An emergency fund covers unexpected shocks (job loss, medical). A sinking fund is money you set aside deliberately for a known future expense (a trip, a gadget) so you don’t derail investments.' },
+  { q: 'Do I need a financial advisor?', a: 'For basic, low-cost investing you can often start solo with education like this. For complex situations — big goals, taxes, insurance, estate — a SEBI-registered advisor can be worth it. Prism is education only, not an advisor.' },
+];
