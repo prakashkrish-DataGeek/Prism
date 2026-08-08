@@ -74,8 +74,4 @@ web/
 - Explicit risk warnings on F&O, crypto, and chit-fund cards.
 - No tracking cookies, no consent banner needed.
 
-## Not built in Phase 1 (by design)
 
-Login/OTP, KYC/PAN/Aadhaar, real SIP execution, persistent portfolios, bank linking (AA),
-payments, gamification/streaks, and the personalised "Artha" AI coach — all deferred to Phase 2
-(replaced here by session-only tools, the static Learning Path, and the Quick Answers FAQ).
